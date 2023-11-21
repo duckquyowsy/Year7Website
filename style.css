@@ -1,9 +1,16 @@
 body{
-  background-color: rgb(155, 35, 189);
+  background-color: rgb(51, 210, 222);
+}
+
+h1{
+  font-family: Arial;
+  text-align: center;
+  color: rgb(255, 255, 255);
 }
 
 .section-button{
   border-radius: 25px;
   font-weight: bold;
   font-family: Arial;
+  border-weight: 2px;
 }
