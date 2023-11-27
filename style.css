@@ -10,10 +10,11 @@ h1{
 
 .section-button{
   border-radius: 25px;
+  border-style: solid;
   font-weight: bold;
   font-family: Arial;
   font-size: 50px;
-  border-weight: 2px;
+  border-weight: 4px;
   margin-bottom: 20px;
   width: 200px;
   height: 100px;
