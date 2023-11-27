@@ -12,7 +12,7 @@ h1{
   color: rgb(255, 255, 255);
 }
 
-.section-button{
+#section-button{
   border-radius: 15px;
   border-style: solid;
   font-weight: bold;
@@ -24,7 +24,7 @@ h1{
   border-color: black;
 }
 
-.back-button{
+#back-button{
   border-radius: 15px;
   border-style: solid;
   font-weight: bold;
