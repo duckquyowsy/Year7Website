@@ -30,6 +30,10 @@ body{
   background: radial-gradient(circle at center, rgb(255, 0, 0) 0, rgb(141, 40, 40) 100%);
 }
 
+.barca{
+  background: radial-gradient(circle at center, rgb(20, 20, 255) 0, rgb(255, 20, 20) 100%);
+}
+
 h1, h2{
   font-family: Arial;
   text-align: center;
