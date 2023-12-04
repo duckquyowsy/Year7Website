@@ -17,7 +17,6 @@ var checkDead = setInterval(function() {
 	if(blockLeft<60 && blockLeft>0 && characterTop>=390) {
 		block.style.animation = "none";
 		block.style.display = "none";
-		alert("u lost");
 		window.location.reload();
 	}
 }, 10)
