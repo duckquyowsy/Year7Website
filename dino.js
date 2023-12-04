@@ -10,6 +10,13 @@ function jump() {
 	}, 470);
 }
 
+document.addEventListener('keydown', (event) => {
+  var name = event.key;
+  if(name == "Space") {
+	  jump();
+  }
+}, false);
+
 var checkDead = setInterval(function() {
 	var characterTop = parseInt(window.getComputedStyle(character).getPropertyValue("top"));
 	var blockLeft = parseInt(window.getComputedStyle(block).getPropertyValue("left"));
