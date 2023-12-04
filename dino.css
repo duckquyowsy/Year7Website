@@ -1,3 +1,7 @@
+body{
+	background: radial-gradient(circle at center, rgb(2, 1, 102) 0, rgb(50, 56, 167) 100%);
+}
+
 .topnav {
   background-color: #333;
   overflow: hidden;
