@@ -63,7 +63,7 @@ h1, h2{
 
 #section-button{
   border-radius: 15px;
-  border: 1px solid black;
+  border: none;
   font-weight: bold;
   font-family: sans-serif;
   font-size: 30px;
@@ -81,7 +81,7 @@ h1, h2{
 
 #back-button{
   border-radius: 15px;
-  border: 1px solid black;
+  border: none;
   font-weight: bold;
   font-family: sans-serif;
   font-size: 15px;
