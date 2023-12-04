@@ -40,9 +40,9 @@ function nextTick(){
     if(running){
         setTimeout(()=>{
             clearBoard();
-            drawFood();
             moveSnake();
             drawSnake();
+            drawFood();
             checkGameOver();
             nextTick();
         }, 75)
