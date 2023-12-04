@@ -23,7 +23,8 @@
 
 @keyframes jump{
 	0%{top: 450px;}
-	50%{top: 300px;}
+	30%{top: 300px;}
+	70%(top: 300px;}
 	100%{top:450px;}
 }
 
