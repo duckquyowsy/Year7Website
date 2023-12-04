@@ -45,7 +45,7 @@
   color: black;
 }
 
-.topnav a.active {
+.topnav a:active {
   background-color: #246969;
   color: white;
 }
