@@ -1,5 +1,5 @@
 body{
-  background: radial-gradient(circle at center, rgb(92, 240, 240) 0, rgb(53, 148, 148) 100%);
+  background: radial-gradient(circle at center, rgb(47 141 141) 0, rgb(157 222 222) 100%);
 }
 
 .topnav {
@@ -22,7 +22,7 @@ body{
 }
 
 .topnav a.active {
-  background-color: #04AA6D;
+  background-color: #246969;
   color: white;
 }
 
