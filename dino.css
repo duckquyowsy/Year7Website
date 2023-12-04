@@ -66,7 +66,7 @@
 @keyframes jump{
 	0%{top: 450px;}
 	30%{top: 300px;}
-	70%(top: 300px;}
+	70%{top: 300px;}
 	100%{top:450px;}
 }
 
@@ -78,6 +78,11 @@
 	top: 390px;
 	left: 1440px;
 	animation: block 1s infinite linear;
+}
+
+@keyframes block{
+	0%{left:1440px;}
+	100%{left: -120px;}
 }
 
 @keyframes block{
