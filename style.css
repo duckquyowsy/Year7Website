@@ -31,7 +31,7 @@ body{
 }
 
 .barca{
-  background: radial-gradient(circle at center, rgb(20, 20, 255) 0, rgb(255, 20, 20) 100%);
+  background: radial-gradient(circle at center, rgb(20, 20, 220) 0, rgb(166, 1, 66) 40%, rgb(166, 1, 66) 60%, rgb(20,20,220) 100%);
 }
 
 h1, h2{
