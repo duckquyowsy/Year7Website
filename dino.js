@@ -1,4 +1,4 @@
-var character = document.getElementById("character");
+/*var character = document.getElementById("character");
 var block = document.getElementById("block");
 
 function jump() {
@@ -26,4 +26,4 @@ var checkDead = setInterval(function() {
 		block.style.display = "none";
 		window.location.reload();
 	}
-}, 10)
+}, 10)*/
