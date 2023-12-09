@@ -44,52 +44,57 @@ body{
   color: black
 }
 
+h1{
+  font-size: 40px;
+	font-family: Arial;
+	color: white;
+}
+
 *{
-	padding: 0;
-	margin: 0;
+  padding: 0;
+  margin: 0;
 }
 
 #game{
-	width: 1500px;
-	height: 600px;
-	border: 1px solid green;
+  width: 1500px;
+  height: 646px;
 }
 
 #character{
-	width: 60px;
-	height: 150px;
-	background-color: red;
-	position: relative;
-	top: 450px;
+  width: 60px;
+  height: 150px;
+  background-color: red;
+  position: relative;
+  top: 450px;
 }
 
 .animate{
-	animation: jump 500ms;
+  animation: jump 500ms;
 }
 
 @keyframes jump{
-	0%{top: 450px;}
-	30%{top: 300px;}
-	70%{top: 300px;}
-	100%{top:450px;}
+  0%{top: 450px;}
+  30%{top: 300px;}
+  70%{top: 300px;}
+  100%{top:450px;}
 }
 
 #block{
-	width: 60px;
-	height: 60px;
-	background-color: rgb(163, 114, 151);
-	position: relative;
-	top: 390px;
-	left: 1440px;
-	animation: block 1s infinite linear;
+  width: 60px;
+  height: 60px;
+  background-color: rgb(163, 114, 151);
+  position: relative;
+  top: 390px;
+  left: 1440px;
+  animation: block 1s infinite linear;
 }
 
 @keyframes block{
-	0%{left:1440px;}
-	100%{left: -120px;}
+  0%{left:1440px;}
+  100%{left: -120px;}
 }
 
 @keyframes block{
-	0%{left:1440px;}
-	100%{left: -120px;}
+  0%{left:1440px;}
+  100%{left: -120px;}
 }
