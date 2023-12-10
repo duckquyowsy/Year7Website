@@ -5,8 +5,8 @@ body{
 .topnav {
   background-color: #333;
   overflow: hidden;
-	position: fixed;
-	width: 99%;
+  position: fixed;
+  width: 99%;
 }
 
 .topnav a {
