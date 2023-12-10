@@ -36,6 +36,10 @@ body{
   background: radial-gradient(circle at center, rgb(20, 20, 220) 0, rgb(166, 1, 66) 40%, rgb(166, 1, 66) 60%, rgb(20,20,220) 100%);
 }
 
+.neymar{
+  background: radial-gradient(circle at center, rgb(50, 181, 2) 0, rgb(128, 105, 0) 100%);
+}
+
 h1, h2{
   font-family: Arial;
   text-align: center;
