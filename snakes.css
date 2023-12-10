@@ -1,3 +1,29 @@
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+  position: fixed;
+  width: 99%;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a:active {
+  background-color: #246969;
+  color: white;
+}
+
 #gameContainer{
     text-align: center;
 }
@@ -24,29 +50,4 @@
     background-color: black;
     color: white;
     cursor: pointer;
-}
-
-.topnav {
-  background-color: #333;
-  overflow: hidden;
-  position: fixed;
-}
-
-.topnav a {
-  float: left;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
-
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
-.topnav a:active {
-  background-color: #246969;
-  color: white;
 }
