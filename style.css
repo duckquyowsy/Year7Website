@@ -37,6 +37,14 @@ body{
 }
 
 /* PLAYERS */
+.player_img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+  width: 30%;
+}
+
 .neymar{
   background: radial-gradient(circle at center, rgb(50, 181, 2) 0, rgb(128, 105, 0) 100%);
 }
