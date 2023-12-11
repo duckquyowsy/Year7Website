@@ -36,9 +36,19 @@ body{
   background: radial-gradient(circle at center, rgb(20, 20, 220) 0, rgb(166, 1, 66) 40%, rgb(166, 1, 66) 60%, rgb(20,20,220) 100%);
 }
 
+/* PLAYERS */
 .neymar{
   background: radial-gradient(circle at center, rgb(50, 181, 2) 0, rgb(128, 105, 0) 100%);
 }
+
+.messi{
+  background: radial-gradient(circle at center, rgb(0, 206, 237) 0, rgb(5, 145, 166) 100%);
+}
+
+.ronaldo{
+ background: radial-gradient(circle at center, rgb(181, 9, 9) 0, rgb(110, 4, 4) 100%);
+}
+/* END PLAYERS */
 
 h1, h2{
   font-family: Arial;
